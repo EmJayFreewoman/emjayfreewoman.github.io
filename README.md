@@ -14,7 +14,7 @@ East Carolina University
 
 *Community Manager @Red Hat* (Oct. 2020 - May 2023)
 - Enable Architect Community Spreadsheet illustrates the growth of EA's writer community through the years [EA Community Members Log](https://docs.google.com/spreadsheets/d/1SNChqok5HvAJPWCVUY-MeI8DNBg9af6Y/edit?gid=1905444703#gid=1905444703)
-- Copy of my *Writers' Workshop* my colleague and I presented to audiences inside and outside of Red Hat as a way to encourage technical experts to share through publishing (and hopefully through our team :blush:
+- Copy of the *Writers' Workshop* my colleague and I presented to audiences inside and outside of Red Hat as a way to encourage technical experts to share through publishing (and hopefully through our team :blush:
 
 *RFP Support Specialist @Lenovo* (April 2019 - Aug. 2020)
 - One of the unsolicited WFH flyers I built for the Lenovo Customer Relief Program before the pandemic [Flyer for HiEd](https://docs.google.com/document/d/1E3zT3tEdMYvSbSJXJzq0fuJfk9NV79l4/edit)
