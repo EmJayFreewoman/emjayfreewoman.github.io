@@ -18,7 +18,7 @@ East Carolina University
   
 #### *Community Manager @Red Hat* (Oct. 2020 - May 2023)
 - Enable Architect Community Spreadsheet illustrates the growth of EA's writer community through the years [EA Community Members Log](https://docs.google.com/spreadsheets/d/1SNChqok5HvAJPWCVUY-MeI8DNBg9af6Y/edit?gid=1905444703#gid=1905444703)
-- Copy of the [*Writers' Workshop*](https://docs.google.com/presentation/d/1F00tomj0-dZRMsHNiTKXt9Z7atWVP791HUxEr5tXI8g/edit?usp=sharing) my colleague and I presented to audiences inside and outside of Red Hat as a way to encourage technical experts to share through publishing (and hopefully through our team :blush:
+- Copy of the [*Writers' Workshop*](https://acrobat.adobe.com/id/urn:aaid:sc:US:1e0e264e-7cec-4771-97dd-3fe3f09cf4f9) my colleague and I presented to audiences inside and outside of Red Hat as a way to encourage technical experts to publish on Enable Architect and her sister sites
 
 #### *RFP Support Specialist @Lenovo* (April 2019 - Aug. 2020)
 - Before COVID-19 took the world by storm, I was asked to build a series of Work-From-Home (WFH) flyers as part of the Lenovo Customer Relief Program campaign, from copy to design. I had no professional copywriting experience at the time. Here are a few:
@@ -32,4 +32,4 @@ East Carolina University
 
 ### Personal Projects
 - Community has been a critical aspect of my open source career. I've worked with a variety of technologists, including IT architects, engineers, and developers; it only makes sense to dive deeper into DevOps, as it underpins the SDLC. Combining my love of community and wanting to become a bit more hands on with software development, I am learning basic frontend development through freecodecamp.org. Here is a [Collaboration Survey](https://github.com/EmJayFreewoman/collaborationsurvey) I built to learn a bit more about how teams collaborate across organizations.
-- On a personal note - I am a self-taught graphic designer! Here's a NSFW gif I created just for kicks [My first attempt using Procreate Animate](https://drive.google.com/file/d/1yrKJHeVIO1QGC3ozxRXFcqGYHregEkC0/view?usp=sharing)
+- On a personal note - I am a self-taught graphic designer! Here's a NSFW gif (https://drive.google.com/file/d/1yrKJHeVIO1QGC3ozxRXFcqGYHregEkC0/view?usp=sharing) I created just for kicks. 
