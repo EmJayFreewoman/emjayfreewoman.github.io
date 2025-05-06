@@ -12,9 +12,8 @@ East Carolina University
 - **Other writing samples from my time at Sauce Labs**
 - [3 Ways to Achieve Continuous Quality During the Holidays](https://saucelabs.com/resources/blog/holiday-prep-continuous-quality)
 - [How Keller Williams accelerated their release cycles by over 60% with Sauce Labs Platform for Test](https://saucelabs.com/resources/case-studies/how-keller-williams-accelerated-their-release-cycles-with-sauce-labs)
-- **A cool honorable 'inbound marketing' mention: What in the world does QA Testing have to do with Taylor Swift's long awaited *The Tortured Poets* album?**
-- [The LinkedIn post...](https://www.linkedin.com/posts/sauce-labs_in-case-you-didnt-know-this-already-from-activity-7187157104745435136-WF0H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-eGpIB6csi9Ujb31a8GN4LsvYp5rjc6Z0)
-- The article the post was promoting targetting [QA testers](https://saucelabs.com/resources/blog/all-the-9s-taylor-swift)
+- **A cool honorable 'inbound marketing' mention: What in the world does QA Testing have to do with Taylor Swift's long awaited *The Tortured Poets* album?**:
+  The[LinkedIn post...](https://www.linkedin.com/posts/sauce-labs_in-case-you-didnt-know-this-already-from-activity-7187157104745435136-WF0H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-eGpIB6csi9Ujb31a8GN4LsvYp5rjc6Z0) and the article the post was promoting targetting [QA testers](https://saucelabs.com/resources/blog/all-the-9s-taylor-swift). 
   
 #### *Community Manager @Red Hat* (Oct. 2020 - May 2023)
 - Enable Architect Community Spreadsheet illustrates the growth of EA's writer community through the years [EA Community Members Log](https://docs.google.com/spreadsheets/d/1SNChqok5HvAJPWCVUY-MeI8DNBg9af6Y/edit?gid=1905444703#gid=1905444703)
