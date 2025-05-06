@@ -1,5 +1,5 @@
 # Content Marketing Manager
-## Creating compelling stories through enabling greater collaboration across communities - one story at a time
+## Enabling greater collaboration, building stronger communities - one story at a time
 
 ### Education
 East Carolina University
@@ -27,9 +27,9 @@ East Carolina University
 3. [ThinkSmart Hub 500](https://acrobat.adobe.com/id/urn:aaid:sc:US:a3c6aa62-67ff-4435-9b2e-1ecbf235111a)
 4. [ThinkCentre M75q AMD Tiny](https://acrobat.adobe.com/id/urn:aaid:sc:US:c2d9bb53-3151-4720-98ff-a816591f2fbd)
 
-#### *Youth Empowered Advocating for Health (YEAH) - Youth Participant and Curriculum Facilitator*
+#### *Youth Empowered Advocating for Health (YEAH) - Youth Participant and Curriculum Facilitator* (High School Age - Present) 
 - A toolkit I designed using Canva for a research study grant. I turned [this](https://acrobat.adobe.com/id/urn:aaid:sc:us:888250d2-4024-41e7-aa80-03f1f6ee30f8) into [this](https://acrobat.adobe.com/id/urn:aaid:sc:us:d3257587-cb7e-4356-9917-0bb7df37ccbd).
 
 ### Personal Projects
 - Community has been a critical aspect of my open source career. I've worked with a variety of technologists, including IT architects, engineers, and developers; it only makes sense to dive deeper into DevOps, as it underpins the SDLC. Combining my love of community and wanting to become a bit more hands on with software development, I am learning basic frontend development through freecodecamp.org. Here is a [Collaboration Survey](https://github.com/EmJayFreewoman/collaborationsurvey) I built to learn a bit more about how teams collaborate across organizations.
-- On a personal note - I am a self-taught graphic designer! Here's a [NSFW gif](https://drive.google.com/file/d/1yrKJHeVIO1QGC3ozxRXFcqGYHregEkC0/view?usp=sharing) I created just for kicks. 
+- I also a self-taught graphic designer! Here's a [NSFW gif](https://drive.google.com/file/d/1yrKJHeVIO1QGC3ozxRXFcqGYHregEkC0/view?usp=sharing) I created just for kicks. 
