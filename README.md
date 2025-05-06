@@ -1,5 +1,5 @@
 # Content Marketing Manager
-## Enabling greater collaboration, building stronger communities - one story at a time
+## Enabling greater collaboration and building stronger communities - one story at a time
 
 ### Education
 East Carolina University
