@@ -32,4 +32,4 @@ East Carolina University
 
 ### Personal Projects
 - Community has been a critical aspect of my open source career. I've worked with a variety of technologists, including IT architects, engineers, and developers; it only makes sense to dive deeper into DevOps, as it underpins the SDLC. Combining my love of community and wanting to become a bit more hands on with software development, I am learning basic frontend development through freecodecamp.org. Here is a [Collaboration Survey](https://github.com/EmJayFreewoman/collaborationsurvey) I built to learn a bit more about how teams collaborate across organizations.
-- On a personal note - I am a self-taught graphic designer! Here's a NSFW gif (https://drive.google.com/file/d/1yrKJHeVIO1QGC3ozxRXFcqGYHregEkC0/view?usp=sharing) I created just for kicks. 
+- On a personal note - I am a self-taught graphic designer! Here's a [NSFW gif](https://drive.google.com/file/d/1yrKJHeVIO1QGC3ozxRXFcqGYHregEkC0/view?usp=sharing) I created just for kicks. 
